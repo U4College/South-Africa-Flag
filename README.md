@@ -33,4 +33,3 @@ If you find any issues with the code or have suggestions for improvements, pleas
 ---
 
 Thank you for checking out this project! If you find it interesting or useful, please give it a star ⭐.
-```
